@@ -47,16 +47,20 @@ npm install
 
 3. **Run the frontend:**
    Run the frontend:
-   ```bash
+
+```bash
 npm run dev
 ```
-   By default, the frontend will run on http://localhost:5173. If your ports are configured differently, the console will show the actual URL.
-   
+
+By default, the frontend will run on http://localhost:5173. If your ports are configured differently, the console will show the actual URL.
+
 4. **Run the server:** Open a new terminal in the root folder and run:
+
 ```bash
 node server/index.js
 ```
-   The server will be accessible at http://localhost:3000.
-   Now, you can navigate through the app!
+
+The server will be accessible at http://localhost:3000.
+Now, you can navigate through the app!
 
 Thank you for the opportunity, and I look forward to your feedback!
