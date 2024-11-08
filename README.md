@@ -2,7 +2,7 @@
 
 # Coding Challenge Project
 
-This project was developed as a coding challenge. Due to personal constraints, I wasn’t able to fully complete all the requirements, but the project has reached a viable MVP stage with some core functionality implemented. I am working to add more features today, so if possible, a review tomorrow will showcase a more complete version of the project.
+This project was developed as a coding challenge. Due to personal constraints, I wasn’t able to fully complete all the requirements, but the project has reached a viable MVP stage with some core functionality implemented.
 
 ## Requirements
 
@@ -12,16 +12,6 @@ This project was developed as a coding challenge. Due to personal constraints, I
 2. **Show User Details After Login**: After logging in, user details are displayed on the main page.
 3. **Use lowdb for Data Persistence**: User data is managed with [lowdb](https://github.com/typicode/lowdb).
 4. **Fully Responsive UI**: The UI is responsive and works well across various device sizes.
-
-### In Progress
-
-I am currently working to implement some of the following features:
-
-- Restrict access to valid users.
-- Authorized users can view their account balance.
-- Allow users to update their details.
-
-**Note**: If you could delay the review until tomorrow, I would be able to complete more functionality and deliver a better product.
 
 ## Bonus Requirements
 
