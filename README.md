@@ -4,14 +4,11 @@
 
 This project was developed as a coding challenge. Due to personal constraints, I wasn’t able to fully complete all the requirements, but the project has reached a viable MVP stage with some core functionality implemented.
 
-## Requirements
-
 ### Implemented Features
 
 1. **Login with Email and Password**: Users can log in with their email and password.
 2. **Show User Details After Login**: After logging in, user details are displayed on the main page.
-3. **Use lowdb for Data Persistence**: User data is managed with [lowdb](https://github.com/typicode/lowdb).
-4. **Fully Responsive UI**: The UI is responsive and works well across various device sizes.
+3. **Fully Responsive UI**: The UI is responsive and works well across various device sizes.
 
 ## Bonus Requirements
 
@@ -44,13 +41,6 @@ npm run dev
 
 By default, the frontend will run on http://localhost:5173. If your ports are configured differently, the console will show the actual URL.
 
-4. **Run the server:** Open a new terminal in the root folder and run:
-
-```bash
-node server/index.js
-```
-
-The server will be accessible at http://localhost:3000.
 Now, you can navigate through the app!
 
 Thank you for the opportunity, and I look forward to your feedback!
